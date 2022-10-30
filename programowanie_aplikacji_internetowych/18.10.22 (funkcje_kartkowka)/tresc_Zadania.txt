@@ -1,0 +1,1 @@
+Stwórz funkcję, która dostanie jako argument nazwę figury (kwadrat, prostokąt, koło, trójkąt) i obliczy oraz wyświetli pole tej figury. Potrzebne do obliczeń dane zadeklaruj jako zmienne.

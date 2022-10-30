@@ -1,0 +1,19 @@
+Utwórz tablicę, a następnie:
+Wypełnij tablicę wartościami podanymi przez użytkownika.
+Znajdź najmniejszy i największy element w tablicy.
+Oblicz średnią wartość elementów tablicy.
+Wylicz ilość wystąpień cyfry 3 w tablicy.
+Dowolnym sposobem posortuj elementy tablicy w porządku rosnącym.
+Znajdź medianę elementów tablicy.
+Wypisz 3 najmniejsze i trzy największe elementy tablicy.
+Zwiększ wartość każdego elementu tablicy podnosząc go do kwadratu.
+Policz ilość liczb parzystych i nieparzystych w tablicy.
+Podaj ile liczb zawartych w tablicy jest podzielna bez reszty przez 3.
+
+Utwórz tablicę 100 elementów:
+Wypełnij tablicę kolejnymi liczbami ciągu Fibonacciego.
+Wypełnij tablicę kolejnymi potęgami liczby 2.
+Wypełni tablicę ciągiem liczb: 3, 6, 9, 12, …
+Wypełni tablicę ciągiem liczb: 2, 4, 8, 16, 32, …
+
+Napisz skrypt, który na podstawie imienia, nazwiska i roku urodzenia, jego login, który składa się z trzech pierwszych liter imienia, trzech ostatnich liter nazwiska oraz z całego roku urodzenia

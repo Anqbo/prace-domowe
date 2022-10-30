@@ -1,0 +1,8 @@
+Obliczający wynik równania x = a/b. Wynik wypisuje na ekran. W przypadku, kiedy nie można obliczyć wyniku, wyświetli stosowny komunikat.
+Obliczający wynik równania x = a/b + c/d . Wynik wypisuje na ekran. W przypadku, kiedy nie można obliczyć wyniku, wyświetli stosowny komunikat.
+Obliczający wynik równania x = (a+6) / (b – 4). Wynik wypisuje na ekran. W przypadku, kiedy nie można obliczyć wyniku, wyświetli stosowny komunikat.
+Sprawdzający czy wprowadzona liczba jest parzysta. Na ekran wypisuje stosowny komunikat.
+Wczytujący dwie liczby. Sprawdza czy pierwsza jest podzielna przez drugą. Na ekran wypisuje stosowny komunikat.
+Sprawdzający czy wprowadzona liczba jest dodatnia, ujemna czy równa 0. Na ekran wypisuje stosowny komunikat.
+*Sprawdzający czy dana trzycyfrowa liczba jest palindromem.
+*Sprawdzający czy poszczególne cyfry maksymalnie dwucyfrowej liczby są parzyste lub ich suma jest równa 4.

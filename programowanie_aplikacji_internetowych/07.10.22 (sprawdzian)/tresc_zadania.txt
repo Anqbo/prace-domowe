@@ -1,0 +1,32 @@
+1. (3pkt) Mając daną tablicę asocjacyjną w postaci: 
+$tab = ["j. polski" => 4, "matematyka" => 5, "j.angielski" => 5, "historia" => 4, "wf" => 6];
+wyświetl informację o ocenach w następujący sposób:
+Oceny:
+j. polski - 4
+matematyka - 5
+j. angielski - 5
+historia - 4
+wf - 6
+
+Następnie oblicz i wyświetl średnią ocen.
+
+2. (2pkt) Za pomocą pętli while/do..while generuj i wyświtlaj liczbę losową z zakresu 50-150 do momentu aż wygeneruje się liczba 100. Kiedy to nastąpi wyświetl komunikat: Sukces!
+
+3. (2pkt) Wykorzystując instrukcję break sumuj liczby losowe z zakresu 1-10 do do momentu aż suma liczb wyniesie 50. Na końcu wyświetl wartość sumy.
+
+4. (2pkt) Wykorzystując instrukcję continue wyświetl za pomocą dowolnej pętli liczby z zakresu 1-20 podzielne przez 5.
+
+5. (5pkt) Za pomocą pętli for wygeneruj tablicę złożoną ze 100 liczb losowych z zakresu 1-500. Wskaż element największy, najmniejszy tablicy, liczbę elementów parzystych i nieparzystych oraz sumę i średnią elementów.
+
+6. (4pkt) Za pomocą dowolnej pętli stwórz i wyświetl poniższą tablicę:
+1 0 0 0 0
+0 1 0 0 0
+0 0 1 0 0
+0 0 0 1 0
+0 0 0 0 1
+
+7.* Sprawdź czy wygenerowana losowa liczba z dowolnie wybranego zakresu jest liczbą pierwszą.
+
+GENEROWANIE LICZB LOSOWYCH:
+
+$x = rand(min,max);

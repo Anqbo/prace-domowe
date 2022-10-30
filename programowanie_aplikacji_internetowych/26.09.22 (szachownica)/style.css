@@ -1,0 +1,6 @@
+td{width:20px; height:20px;}
+
+table tr:nth-child(odd) td:nth-child(odd),
+table tr:nth-child(even) td:nth-child(even){
+    background-color:black;
+}

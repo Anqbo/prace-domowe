@@ -1,0 +1,1 @@
+Za pomocą pętli w języku PHP narysuj szachownicę, składającą się z 64 pól (8x8), o rozmiarze 20px x 20px
