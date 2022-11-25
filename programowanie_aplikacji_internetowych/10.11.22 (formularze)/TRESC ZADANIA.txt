@@ -1,0 +1,26 @@
+Utwórz formularz logowania użytkownika w pliku index.html, ma zawierać pola: login (text), hasło (password), checkbox z etykietą zapamiętaj mnie, przycisk do przesłania formularza. Formularz ma zostać przesłany do pliku login.php, w którym:
+
+wyświetlisz na ekran przesłany przez użytkownika login
+zakodujesz za pomocą funkcji sha1() hasło użytkownika i wypiszesz je w takiej formie na ekran
+wypiszesz na ekran zdanie informacyjne, czy pole checkbox zostało zaznaczone
+2. Utwórz formularz, znajdujący się w pliku komentarz.html, służący do wpisania komentarza. Formularz ma zawierać pola:
+
+Pseudonim (text)
+Komentarz (textarea) – można używać znaczników html
+Formularz prześlij do pliku zapisz.php. Wyświetl w nim w kolejnych paragrafach pseudonim oraz dwa razy komentarz. 
+Komentarz wyświetl kolejno w wersji z wykonanym kodem html (np. tekst w znacznikach ma zostać pogrubiony), oraz w pełni tekstowo (ze znacznikami html w postaci tekstu).
+
+3. Utwórz ankietę składającą się z 3 pytań. Pierwsze ma zawierać do wyboru listę rozwijaną zawierającą minimum 3 opcje, drugie zawierające minimum 3 pola typu radio oraz trzecie z minimum trzema polami checkbox. 
+Formularz prześlij do pliku wynik.php, w którym wypiszesz wszystkie wybrane opcje.
+
+4. Napisz formularz, składający się z dwóch pytań, pierwszego o kolor tła, drugiego o kolor tekstu. 
+Formularz prześlij do pliku kolory.php, w którym w paragrafie (wysokość 50%; szerokość 50%; marginesy lewy i prawy równe, margines górny 50px, ramka 2 px czerwona kreskowana) wypiszesz swoje imię i nazwisko czcionką o kolorze podanym w formularzu. 
+Tło paragrafu również ustaw na to podane w formularzu. Kolory przesłane mają być w postaci szesnastkowej liczby 6 cyfrowej. Sprawdź poprawność przesłanych przez użytkownika liczb.
+
+5. Utwórz formularz zawierający pola: koszt benzyny (text), ilość kilometrów (number), średnie spalanie (text). 
+Formularz prześlij do pliku koszt.php, w którym wypiszesz na ekran wszystkie przesłane przez użytkownika informacje oraz obliczysz i wypiszesz na ekran koszt przejazdu. 
+Zadbaj o poprawność przesłanych danych (koszt benzyny i średnie spalanie – liczby zmiennoprzecinkowe).
+
+6. Utwórz formularz obliczający koszt dowozu pizzy, składający się z dwóch pól: pole number – odległość w km, checkbox – ciepła. 
+Formularz prześlij do pliku pizza.php, w którym wypiszesz obliczony koszt dowozu. 
+Koszt dowozu obliczamy następująco: liczbę km mnożymy przez 50 groszy, jeśli pizza ma dotrzeć ciepła trzeba będzie doliczyć jeszcze dodatkowo 15% kosztów dowozu.

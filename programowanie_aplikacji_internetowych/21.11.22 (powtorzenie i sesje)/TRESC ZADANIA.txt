@@ -1,0 +1,42 @@
+1. Stwórz skrypt, który pobierze od użytkownika imię, nazwisko oraz wiadomość, które dopisze do pliku. 
+Przykładowy wygląd pliku:
+
+Imię: Jan
+Nazwisko: Kowalski
+Wiadomość: Proszę o kontakt
+Data: 21.11.2022
+
+----------------------------------
+
+Imię: Jan
+Nazwisko: Nowak
+Wiadomość: Lorem ipsum
+Data: 20.11.2022
+
+----------------------------------
+
+Plik powinien mieć powyższą strukturę, data jest zapisywana automatycznie na podstawie daty wypełnienia formularza
+
+Dodaj stronę, na której będą wyświetlone wszystkie wiadomości. 
+Strona ma być dostępna tylko dla zalogowanych i ma mieć możliwość wylogowania.
+
+
+2. Napisz skrypt, który sprawdzi, czy w pliku tekstowym występuje słowo wpisane przez użytkownika do formularza.
+
+
+3. Napisz skrypt, który wygeneruje tablicę 100 liczb losowych z zakresu 1..50, 
+obliczy średnią elementów tablicy, wskaże element najmniejszy i największy i posortuje tablicę.
+
+
+4. Napisz skrypt, który wczyta od użytkownika datę urodzin w jednym polu formularza (elementy daty rozdzielone "-") 
+i wyświetli informację, czy użytkownik jest pełnoletni (porównaj pełne daty, nie tylko roczniki).
+
+
+5. Korzystając z ciasteczek, utwórz licznik odwiedzin strony. 
+Na stronie ma się wyświetlać teks zależny od liczby odwiedzin:
+
+< 1 - Witaj po raz pierwszy
+
+1 - 10 - Witaj po raz kolejny
+
+> 10 - To znowu Ty!!

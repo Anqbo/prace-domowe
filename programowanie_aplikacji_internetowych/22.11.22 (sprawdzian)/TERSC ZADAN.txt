@@ -1,0 +1,28 @@
+1. (2pkt) Napisz, skrypt, który wyświetli dzisiejszą datę wg wzoru: 22/12/2022
+
+2. (3pkt) Napisz skrypt, który wczyta od użytkownika datę urodzin w jednym polu formularza (elementy daty rozdzielone "-") i wyświetli informację, 
+czy użytkownik jest pełnoletni (porównaj pełne daty, nie tylko roczniki).
+
+3. (3pkt) Napisz skrypt, który wygeneruje tablicę 1000 liczb losowych z zakresu 1..10, 
+obliczy średnią elementów tablicy, wskaże element najmniejszy i największy i posortuje tablicę (wyświetl posortowaną tablicę).
+
+4. (3pkt) Napisz skrypt, który sprawdzi, czy podane słowo występuje w tekście wpisanym na stronie internetowej (na stronie wpisz dowolny tekst).
+
+5. (5pkt) Napisz skrypt, który stworzy w pliku tekstowym users.txt listę użytkowników. Dane użytkowników (imię, nazwisko) pobierz z formularza. 
+Do pliku tekstowego zapisz imię, nazwisko, login (składa się z trzech pierwszych liter imienia i trzech pierwszych liter nazwiska, zapisany wielkimi literami) 
+oraz datę zapisania danych.
+
+Przykład:
+Jan Kowalski JANKOW 22.11.2022
+Anna Nowak ANNNOW 22.11.2022
+
+6. (4pkt) Wykorzystując mechanizm ciasteczek, który będzie wyświetlał, ile razy użytkownik odwiedził stronę.
+
+7. (3pkt) Wykorzystując mechanizm sesji, stwórz stronę logowania, 
+stronę z dostępem tylko dla zalogowanego użytkownika, na której wyświetlisz login użytkownika oraz dodaj możliwość wylogowania.
+
+8. (3pkt) Stwórz funkcję silnia, następnie wykorzystaj ją w obliczaniu wyrażenia:
+
+n!/(k!(n-k)!)
+
+9*. Do zadania 5 dodaj możliwość wyszukiwania danych użytkownika na podstawie loginu.

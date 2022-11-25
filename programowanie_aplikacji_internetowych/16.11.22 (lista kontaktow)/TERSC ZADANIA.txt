@@ -1,0 +1,5 @@
+Stwórz formularz, który będzie zapisywał dane kontaktu do pliku tekstowego. 
+Dane to: imię, nazwisko, nr telefonu i email.
+
+Ponadto stwórz stronę, na której będą wyświetlone wszystkie kontakty pobrane z pliku. 
+Kontakty mają być wyświetlone w tabeli.
